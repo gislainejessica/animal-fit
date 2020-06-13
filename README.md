@@ -5,3 +5,10 @@
 
 # Animal Fit 
 Um aplicativo para você se exercitar com seus animaizinhos sem sair de casa
+
+## Features 
+- [ ] Login
+- [ ] Cadastro
+- [ ] Perfil
+- [ ] Splash Screem Animada
+
